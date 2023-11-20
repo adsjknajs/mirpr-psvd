@@ -71,7 +71,7 @@ A fost folosit modelul pre-antrenat 'YOLOv8n', si reantrenat cu o arhiva de poze
 
 -1500 imagini training
 
--336 imaigini test
+-336 imagini test
 
 -740 imagini validare
 
